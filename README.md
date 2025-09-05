@@ -29,3 +29,7 @@ DelivEat aims to simplify the process of ordering food online by providing an in
    ```bash
    git clone https://github.com/Avinash-2508/DelivEat-fullstack.git
    cd deliveat
+# DelivEat
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Node.js](https://img.shields.io/badge/Node.js-v18.x-brightgreen.svg)
