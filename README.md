@@ -21,3 +21,11 @@ DelivEat aims to simplify the process of ordering food online by providing an in
 - **Backend:** Node.js, Express.js
 - **Database:** PostgreSQL
 - **Others:** JWT for authentication, RESTful APIs
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/deliveat.git
+   cd deliveat
