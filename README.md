@@ -5,3 +5,12 @@ DelivEat is a modern food delivery application built with React for the frontend
 ## About the Project
 
 DelivEat aims to simplify the process of ordering food online by providing an intuitive platform where users can explore menus, customize orders, and receive timely deliveries. The app combines a clean frontend UI with a robust backend and a reliable PostgreSQL database to handle orders efficiently.
+
+## Features
+
+- Browse a wide variety of restaurants and cuisines
+- Add items to cart and customize orders
+- Secure user authentication and authorization
+- Real-time order tracking
+- Responsive design for mobile and desktop
+- Admin panel for managing restaurants, menu items, and orders
