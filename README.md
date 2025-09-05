@@ -14,3 +14,10 @@ DelivEat aims to simplify the process of ordering food online by providing an in
 - Real-time order tracking
 - Responsive design for mobile and desktop
 - Admin panel for managing restaurants, menu items, and orders
+
+## Technologies Used
+
+- **Frontend:** HTML, CSS, React.js
+- **Backend:** Node.js, Express.js
+- **Database:** PostgreSQL
+- **Others:** JWT for authentication, RESTful APIs
