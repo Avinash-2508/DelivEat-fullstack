@@ -22,6 +22,11 @@ DelivEat aims to simplify the process of ordering food online by providing an in
 - **Database:** PostgreSQL
 - **Others:** JWT for authentication, RESTful APIs
 
+  ## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 ## Installation
 
 1. **Clone the repository:**
